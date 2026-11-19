@@ -1,0 +1,2 @@
+Sube una imagen de un perro,Raza predicha,timestamp
+.gradio\flagged\Sube una imagen de un perro\a8cd8f6f075f464ea2f0\20260502_1655031.jpg,"{""label"": ""golden_retriever"", ""confidences"": [{""label"": ""golden_retriever"", ""confidence"": 0.41811302304267883}, {""label"": ""bulldog"", ""confidence"": 0.35975924134254456}, {""label"": ""pastor_aleman"", ""confidence"": 0.2221277952194214}]}",2026-05-02 16:56:05.296140
